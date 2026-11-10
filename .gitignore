@@ -1,0 +1,7 @@
+/target
+# Local SDK / emulator data (never commit these)
+sdk/
+avd/
+jre/
+*.zip
+*.img
